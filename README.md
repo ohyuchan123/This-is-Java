@@ -6,12 +6,16 @@
 
 그리고 모든 운영체제에서 실행 가능한 데스크톱 애플리케이션도 개발할 수 있습니다.
 
+👉 <a href="https://youtu.be/LbpLDU35BJU?si=aa8OOffluIa9VmEi">Java는 다음과 같은 방법으로 설치해요</a>
+
 ## 🙋🏻 파일을 이렇게 관리해보아요 
+```
 1. 코드는 오직 Grammer 파일에만 올려요.
 2. Java를 배우면서 공부한 글은 각 카테고리에 맞게 파일을 생성 해서 작성해요. 
     - Concept(Algorithms, Design Pattern, Data structure...) 각각의 분류할 수 있는 폴더 이름
     - 분류 되지 못하는 파일들은 Concept 폴더에 작성해주세요
 3. 문법을 제외한 파일들은 Markdown 을 통해 작성해요.
+```
 
 ## 🙋🏻 Java를 사용할 때 유용해요
 ```
