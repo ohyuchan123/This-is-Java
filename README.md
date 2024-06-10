@@ -32,6 +32,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 ```
 
 ## 📝 Concept
-- <a href="">객체지향이란?</a>
+- <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#0111e7ae39e14084a220d72d27864a97">객체지향이란?</a>
 
 ### Grammer
+- <a href="https://github.com/ohyuchan123/This-is-Java/tree/master/Grammer/Variable">변수 선언</a>
