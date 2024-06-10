@@ -12,7 +12,7 @@
 
 ## 🙋🏻 파일을 이렇게 관리해보아요 
 ```
-1. 코드는 오직 Grammer 파일에만 올려요.
+1. 각 파일에는 코드만 올려요.
 2. Java를 배우면서 공부한 글은 각 카테고리에 맞게 파일을 생성 해서 작성해요. 
     - Concept(Algorithms, Design Pattern, Data structure...) 각각의 분류할 수 있는 폴더 이름
     - 분류 되지 못하는 파일들은 Concept 폴더에 작성해주세요
@@ -35,6 +35,9 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 
 ## 📝 Concept
 - <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#0111e7ae39e14084a220d72d27864a97">객체지향이란?</a>
+- <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
 
 ### Grammer
 - <a href="https://github.com/ohyuchan123/This-is-Java/tree/master/Grammer/Variable">변수 선언</a>
+- <a href="https://yuchan-log.notion.site/6a599e5f3c864a43bce04b57ff10e848?pvs=4">연산자</a>
+- <a href="https://yuchan-log.notion.site/61c1f949515a4a43aa570ebf890c0a1f?pvs=4">조건문과 반복문</a>
