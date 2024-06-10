@@ -36,6 +36,8 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 ## 📝 Concept
 - <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#0111e7ae39e14084a220d72d27864a97">객체지향이란?</a>
 - <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
+- <a href="https://yuchan-log.notion.site/f48971d1d7a546ac9981faabcdfdb2d2?pvs=4">지역 변수와 전역 변수</a>
+- <a href="https://yuchan-log.notion.site/27dbb94c0e3e4975a2b7683848c26218?pvs=4">오버플로우와 언더플로우</a>
 
 ### Design Pattern
 
@@ -44,5 +46,5 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/6a599e5f3c864a43bce04b57ff10e848?pvs=4">연산자</a>
 - <a href="https://yuchan-log.notion.site/61c1f949515a4a43aa570ebf890c0a1f?pvs=4">조건문과 반복문</a>
 - <a href="">참조 타입</a>
-- <a href="">클래스
+- <a href="">클래스</a>
 - <a href="">상속</a>
