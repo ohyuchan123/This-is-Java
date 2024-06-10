@@ -37,7 +37,12 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#0111e7ae39e14084a220d72d27864a97">객체지향이란?</a>
 - <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
 
+### Design Pattern
+
 ### Grammer
-- <a href="https://github.com/ohyuchan123/This-is-Java/tree/master/Grammer/Variable">변수 선언</a>
+- <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#4b0e8ce3b1c348a29eea5bcf25e46022">변수 선언</a>
 - <a href="https://yuchan-log.notion.site/6a599e5f3c864a43bce04b57ff10e848?pvs=4">연산자</a>
 - <a href="https://yuchan-log.notion.site/61c1f949515a4a43aa570ebf890c0a1f?pvs=4">조건문과 반복문</a>
+- <a href="">참조 타입</a>
+- <a href="">클래스
+- <a href="">상속</a>
