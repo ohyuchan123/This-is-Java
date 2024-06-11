@@ -40,6 +40,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/27dbb94c0e3e4975a2b7683848c26218?pvs=4">오버플로우와 언더플로우</a>
 
 ### Design Pattern
+- <a href="">싱글톤 패턴</a>
 
 ### Grammer
 - <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#4b0e8ce3b1c348a29eea5bcf25e46022">변수 선언</a>
