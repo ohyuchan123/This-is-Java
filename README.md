@@ -34,18 +34,24 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 ```
 
 ## 📝 Concept
-- <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#0111e7ae39e14084a220d72d27864a97">객체지향이란?</a>
+- <a href="https://yuchan-log.notion.site/5fd3849e85f7422185103692cb80a64f?pvs=4">객체지향이란?</a>
 - <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
-- <a href="https://yuchan-log.notion.site/f48971d1d7a546ac9981faabcdfdb2d2?pvs=4">지역 변수와 전역 변수</a>
-- <a href="https://yuchan-log.notion.site/27dbb94c0e3e4975a2b7683848c26218?pvs=4">오버플로우와 언더플로우</a>
+- <a href="https://yuchan-log.notion.site/Primitive-Type-Reference-Type-453804468b414670b34b5c1670bdd9de?pvs=4">자바 변수의 기본형(Primitive) 타입과 참조형(Reference) 타입 변수의 차이 이해하기</a>
+
 
 ### Design Pattern
 - <a href="">싱글톤 패턴</a>
 
 ### Grammer
-- <a href="https://www.notion.so/yuchan-log/b73db9789c364c55bf6f03803d10dae3?pvs=4#4b0e8ce3b1c348a29eea5bcf25e46022">변수 선언</a>
-- <a href="https://yuchan-log.notion.site/6a599e5f3c864a43bce04b57ff10e848?pvs=4">연산자</a>
-- <a href="https://yuchan-log.notion.site/61c1f949515a4a43aa570ebf890c0a1f?pvs=4">조건문과 반복문</a>
-- <a href="">참조 타입</a>
-- <a href="">클래스</a>
-- <a href="">상속</a>
+**자바 언어의 기초**
+- <a href="https://yuchan-log.notion.site/JAVA-b73db9789c364c55bf6f03803d10dae3?pvs=4">JAVA 기본 자료형</a>
+- <a href="https://yuchan-log.notion.site/JAVA-8b4382dc7a4f4081b66637c325795e7a?pvs=4">JAVA 타입 형변환 방법</a>
+
+**참조 타입**
+- <a href="https://yuchan-log.notion.site/JAVA-b73db9789c364c55bf6f03803d10dae3?pvs=4">Java 데이터 타입에 대해서 알아보고 정리하자</a>
+- <a href="https://yuchan-log.notion.site/d33a0d479e7944ac90a32c49c2afd8a0?pvs=4">Java 배열(Array)를 완벽하게 다뤄보자</a>
+- <a href="https://yuchan-log.notion.site/Java-e8d716f49dde4f94b66795b21c576927?pvs=4">Java 다차원 배열이란? 이를 어떻게 사용하는가?</a>
+- <a href="https://yuchan-log.notion.site/Enum-6cde5748203549a88a6fce02d1fcb7d3?pvs=4">Enum(열거) 타입에 대해서 알아보고 사용해보자</a>
+
+**클래스**
+- <a href=""></a>
