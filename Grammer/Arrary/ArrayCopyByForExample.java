@@ -2,7 +2,7 @@ package Grammer.Arrary;
 
 import java.util.Arrays;
 
-public class ArrayCopyExample {
+public class ArrayCopyByForExample {
     public static void main(String[] args) {
         int[] arr1 = {10, 20, 30, 40, 50};
 
