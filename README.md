@@ -49,7 +49,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 
 **참조 타입**
 - <a href="https://yuchan-log.notion.site/JAVA-b73db9789c364c55bf6f03803d10dae3?pvs=4">Java 데이터 타입에 대해서 알아보고 정리하자</a>
-- <a href="https://yuchan-log.notion.site/d33a0d479e7944ac90a32c49c2afd8a0?pvs=4">Java 배열(Array)를 완벽하게 다뤄보자</a>
+- <a href="https://yuchan-log.notion.site/Java-Array-96e4321e4ae84194ad81fadedff4d28b?pvs=4">Java 배열(Array)를 완벽하게 다뤄보자</a>
 - <a href="https://yuchan-log.notion.site/Java-e8d716f49dde4f94b66795b21c576927?pvs=4">Java 다차원 배열이란? 이를 어떻게 사용하는가?</a>
 - <a href="https://yuchan-log.notion.site/Enum-6cde5748203549a88a6fce02d1fcb7d3?pvs=4">Enum(열거) 타입에 대해서 알아보고 사용해보자</a>
 
