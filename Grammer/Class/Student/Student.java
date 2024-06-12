@@ -1,2 +1,5 @@
-package Grammer.Class.Student;public class Student {
+package Grammer.Class.Student;
+
+public class Student {
+
 }
