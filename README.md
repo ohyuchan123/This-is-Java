@@ -8,7 +8,7 @@
 
 👉 <a href="https://youtu.be/LbpLDU35BJU?si=aa8OOffluIa9VmEi">Java는 다음과 같은 방법으로 설치해요</a>  
 👉 <a href="https://yuchan-log.notion.site/SDK-manager-SDKMAN-JAVA-e7ce35383cc84ab5b61ce9c19d4c4f2b?pvs=4">Java JDK 버전은 다음과 같이 관리해요</a>  
-👉 <a href="https://jhyonhyon.tistory.com/15">Java는 이와 같은 역사를 가지고 있어요</a>
+👉 <a href="https://jhyonhyon.tistory.com/15">Java는 이와 같은 역사를 가지고 있어요</a>  
 👉 <a href="https://velog.io/@joshuara7235/IntelliJ-스마트하게-사용하기-Plugins-추천">Intellij를 다음과 같이 꾸며요</a>
 
 ## 🙋🏻 파일을 이렇게 관리해보아요 
