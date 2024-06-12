@@ -15,7 +15,7 @@
 1. 각 파일에는 코드만 올려요.
 2. Java를 배우면서 공부한 글은 각 카테고리에 맞게 파일을 생성 해서 작성해요. 
     - Concept(Algorithms, Design Pattern, Data structure...) 각각의 분류할 수 있는 폴더 이름
-    - 분류 되지 못하는 파일들은 Concept 폴더에 작성해주세요
+    - 분류 되지 못하는 파일들은 각 분류 할 수 있는 파일을 따로 만들지 않고 Concept 폴더에만 작성해주세요
 3. 문법을 제외한 파일들은 Markdown 을 통해 작성해요.
 ```
 
@@ -26,6 +26,8 @@ psvm -> public static void main(String[] args) 을 자동 생성
 sout ->  System.out.println(); 출력문을 자동적으로 생성
 ```
 
+👉 <a href="https://iiaii.tistory.com/m/10">위 처럼 이 글을 통해 원하는 형태로 커스텀을 할 수 있어요</a>
+
 ## ❗️ 다음과 같은 규칙을 가지면서 작성해요
 ```
 1. 오직 코드만 작성해요 글은 저의 Notion 블로그를 통해서 작성해요(주석 설명 제외)
@@ -34,24 +36,30 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 ```
 
 ## 📝 Concept
-- <a href="https://yuchan-log.notion.site/5fd3849e85f7422185103692cb80a64f?pvs=4">객체지향이란?</a>
+- <a href="https://yuchan-log.notion.site/OOP-5fd3849e85f7422185103692cb80a64f?pvs=4">객체지향이란?</a>
 - <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
 - <a href="https://yuchan-log.notion.site/Primitive-Type-Reference-Type-453804468b414670b34b5c1670bdd9de?pvs=4">자바 변수의 기본형(Primitive) 타입과 참조형(Reference) 타입 변수의 차이 이해하기</a>
+
+**Basic**
+- <a href="https://yuchan-log.notion.site/6ed0333e7dca4244822c86bb70bd9c92?pvs=4">동적 변화와 정적 고정: 두 가지 접근 방식의 차이점</a>
+- <a href="https://yuchan-log.notion.site/c02d103c51944260a308f2c0b650af95?pvs=4">지역 변수와 전역 변수는 나의 가방끈?</a>
 
 
 ### Design Pattern
 - <a href="">싱글톤 패턴</a>
 
 ### Grammer
+**자바 코드의 구조**
+- <a href="https://yuchan-log.notion.site/cd654a57acb9466a9018fd10a69fdb8c?pvs=4">자바 코드의 구조를 살펴보자</a>
+
 **자바 언어의 기초**
 - <a href="https://yuchan-log.notion.site/JAVA-b73db9789c364c55bf6f03803d10dae3?pvs=4">JAVA 기본 자료형</a>
 - <a href="https://yuchan-log.notion.site/JAVA-8b4382dc7a4f4081b66637c325795e7a?pvs=4">JAVA 타입 형변환 방법</a>
 
 **참조 타입**
-- <a href="https://yuchan-log.notion.site/JAVA-b73db9789c364c55bf6f03803d10dae3?pvs=4">Java 데이터 타입에 대해서 알아보고 정리하자</a>
 - <a href="https://yuchan-log.notion.site/Java-Array-96e4321e4ae84194ad81fadedff4d28b?pvs=4">Java 배열(Array)를 완벽하게 다뤄보자</a>
 - <a href="https://yuchan-log.notion.site/Java-e8d716f49dde4f94b66795b21c576927?pvs=4">Java 다차원 배열이란? 이를 어떻게 사용하는가?</a>
 - <a href="https://yuchan-log.notion.site/Enum-6cde5748203549a88a6fce02d1fcb7d3?pvs=4">Enum(열거) 타입에 대해서 알아보고 사용해보자</a>
 
 **클래스**
-- <a href=""></a>
+- <a href="https://yuchan-log.notion.site/da9207cb899e46babe8cc50b074f7747?pvs=4">클래스 문법에 대해서 알아보자</a>
