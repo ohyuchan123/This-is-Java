@@ -1,4 +1,4 @@
-package Grammer.Inheritance;
+package Grammer.Inheritance.multiple_inheritance;
 
 public class Duck {
     private FlyingAbility flyingAbility;
