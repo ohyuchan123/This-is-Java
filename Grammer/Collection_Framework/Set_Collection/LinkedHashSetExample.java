@@ -1,9 +1,8 @@
 package Grammer.Collection_Framework.Set_Collection;
-
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class LinkedHashSet {
+public class LinkedHashSetExample {
     public static void main(String[] args) {
         Set<Integer> linkedHashSet = new LinkedHashSet<>();
 
