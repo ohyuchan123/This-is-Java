@@ -1,2 +1,6 @@
-package Concept.Design_patterns.Iterator;public interface Iterator {
+package Concept.Design_patterns.Iterator;
+
+public interface Iterator<T> {
+    boolean hasNext();
+    T next();
 }
