@@ -9,6 +9,7 @@
 👉 <a href="https://youtu.be/LbpLDU35BJU?si=aa8OOffluIa9VmEi">Java는 다음과 같은 방법으로 설치해요</a>  
 👉 <a href="https://yuchan-log.notion.site/SDK-manager-SDKMAN-JAVA-e7ce35383cc84ab5b61ce9c19d4c4f2b?pvs=4">Java JDK 버전은 다음과 같이 관리해요</a>  
 👉 <a href="https://jhyonhyon.tistory.com/15">Java는 이와 같은 역사를 가지고 있어요</a>
+👉 <a href="https://velog.io/@joshuara7235/IntelliJ-스마트하게-사용하기-Plugins-추천">Intellij를 다음과 같이 꾸며요</a>
 
 ## 🙋🏻 파일을 이렇게 관리해보아요 
 ```
@@ -39,6 +40,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/OOP-5fd3849e85f7422185103692cb80a64f?pvs=4">객체지향이란?</a>
 - <a href="https://yuchan-log.notion.site/SOLID-ff3e9b0fe6294ef2995a615466e02562?pvs=4">SOLID - 객체 지향 설계 원칙</a>
 - <a href="https://yuchan-log.notion.site/Primitive-Type-Reference-Type-453804468b414670b34b5c1670bdd9de?pvs=4">자바 변수의 기본형(Primitive) 타입과 참조형(Reference) 타입 변수의 차이 이해하기</a>
+- <a href="https://yuchan-log.notion.site/public-private-protected-default-07480506910b404dad16762abb86629b?pvs=4">public, private protected, default 접근 제한자의 모든것</a>
 
 **Basic**
 - <a href="https://yuchan-log.notion.site/6ed0333e7dca4244822c86bb70bd9c92?pvs=4">동적 변화와 정적 고정: 두 가지 접근 방식의 차이점</a>
@@ -63,3 +65,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 
 **클래스**
 - <a href="https://yuchan-log.notion.site/da9207cb899e46babe8cc50b074f7747?pvs=4">클래스 문법에 대해서 알아보자</a>
+
+**상속**
+- <a href="https://yuchan-log.notion.site/85c4d74d1c894723b0daadfadc7c589d?pvs=4">상속</a>
+- <a href="https://yuchan-log.notion.site/final-final-cf336c9701cc44bfa60758f037ac3308?pvs=4">final 클래스와 final 메소드</a>
