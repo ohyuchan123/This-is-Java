@@ -1,62 +1,40 @@
 package Concept.Design_patterns.builder;
 
-import javax.swing.*;
-
-public class NormalBook {
+public class BuilderBook {
     private String isbn;
     private String title;
     private String author;
     private String description;
     private int price;
 
-    public NormalBook() {}
-
-    public NormalBook(String isbn, String title, String author, String description, int price) {
+    private BuilderBook() {}
+    public static BuilderBook builder() {
+        return new BuilderBook();
+    }
+    public BuilderBook isbn(String isbn) {
         this.isbn = isbn;
+        return this;
+    }
+    public BuilderBook title(String title) {
         this.title = title;
+        return this;
+    }
+    public BuilderBook author(String author) {
         this.author = author;
+        return this;
+    }
+    public BuilderBook description(String description) {
         this.description = description;
+        return this;
+    }
+    public BuilderBook price(int price) {
         this.price = price;
+        return this;
     }
 
-    public String getIsbn() {
-        return isbn;
+    @Override
+    public String toString() {
+        return "BuilderBook [isbn=" + isbn + ", title=" + title + ", author=" + author + ", description=" + description
+                + ", price=" + price + "]";
     }
-
-    public void setIsbn(String isbn) {
-        this.isbn = isbn;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getAuthor() {
-        return author;
-    }
-
-    public void setAuthor(String author) {
-        this.author = author;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public int getPrice() {
-        return price;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
-
 }

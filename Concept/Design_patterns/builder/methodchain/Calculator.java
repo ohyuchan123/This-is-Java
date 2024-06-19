@@ -1,22 +1,25 @@
-package Concept.Design_patterns.methodchain;
+package Concept.Design_patterns.builder.methodchain;
 
 public class Calculator {
     private int first;
     private int second;
 
-    public void setFirst(int first){
+    public Calculator setFirst(int first) {
         this.first = first;
+        return this;
     }
-    public void setSecond(int second){
+    public Calculator setSecond(int second) {
         this.second = second;
+        return this;
     }
 
-    public void showAdd(){
-        System.out.println("Add "+this.first + " and"+this.second+
-                " = "+(this.first + this.second));
+    public Calculator showAdd() {
+        System.out.println("Add " + this.first + " + " + this.second + " = " + (this.first + this.second)) ;
+        return this;
     }
-    public void showSub(){
-        System.out.println("Sub "+this.first + " and"+this.second+
-                " = "+(this.first - this.second));
+
+    public Calculator showSub() {
+        System.out.println("Sub " + this.first + " - " + this.second + " = " + (this.first - this.second)) ;
+        return this;
     }
 }
