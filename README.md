@@ -46,7 +46,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 **Basic**
 - <a href="https://yuchan-log.notion.site/6ed0333e7dca4244822c86bb70bd9c92?pvs=4">동적 변화와 정적 고정: 두 가지 접근 방식의 차이점</a>
 - <a href="https://yuchan-log.notion.site/c02d103c51944260a308f2c0b650af95?pvs=4">지역 변수와 전역 변수는 나의 가방끈?</a>
-- <a href="https://yuchan-log.notion.site/48c2ea442d6447ea99e45e3a998aba34?pvs=4">예외 처리는 왜 해야 하는가?</a>
+- <a href="https://yuchan-log.notion.site/d746c44f1b3344f1b22b26a050add122?pvs=4">자바 에러와 예외 클래스 이해하기</a>
 
 ### Grammer
 **자바 코드의 구조**
@@ -73,3 +73,8 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/Interface-5c77a39cec534dfbb60885eea2616f29?pvs=4">인터페이스란 무엇인가?</a>
 - <a href="https://yuchan-log.notion.site/9547aa0b79f040dabe0d6cf076d3ddba?pvs=4">인터페이스의 메소드 사용법</a>
 
+**라이브러리 활용**
+- <a href="https://yuchan-log.notion.site/8587477d10be4a53b6250464204cdfa6?pvs=4">안정성을 보장하는 제네릭</a>
+- <a href="https://yuchan-log.notion.site/483127f15a7946e09b9ba1f2c48df9a3?pvs=4">컬렉션 자료구조</a>
+- <a href="https://yuchan-log.notion.site/36df6da363994c56bd04a846ef89b136?pvs=4">람다식에 모든것</a>
+- <a href="https://yuchan-log.notion.site/44c5120759ad484f8f8cf8f11a97ae41?pvs=4">스트림이란?</a>
