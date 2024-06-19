@@ -1,5 +1,5 @@
 package Concept.Design_patterns.adapter;
 
-public interface LegacyFunAdapter {
+public interface LegacyFuncAdapter {
     int calc(int num);
 }
