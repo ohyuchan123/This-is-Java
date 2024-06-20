@@ -46,10 +46,6 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/6ed0333e7dca4244822c86bb70bd9c92?pvs=4">동적 변화와 정적 고정: 두 가지 접근 방식의 차이점</a>
 - <a href="https://yuchan-log.notion.site/c02d103c51944260a308f2c0b650af95?pvs=4">지역 변수와 전역 변수는 나의 가방끈?</a>
 
-
-### Design Pattern
-- <a href="">싱글톤 패턴</a>
-
 ### Grammer
 **자바 코드의 구조**
 - <a href="https://yuchan-log.notion.site/cd654a57acb9466a9018fd10a69fdb8c?pvs=4">자바 코드의 구조를 살펴보자</a>
@@ -69,3 +65,7 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 **상속**
 - <a href="https://yuchan-log.notion.site/85c4d74d1c894723b0daadfadc7c589d?pvs=4">상속</a>
 - <a href="https://yuchan-log.notion.site/final-final-cf336c9701cc44bfa60758f037ac3308?pvs=4">final 클래스와 final 메소드</a>
+- <a href="https://yuchan-log.notion.site/82bf889969054692b13f31138e1c172a?pvs=4">추상 클래스</a>
+
+**인터페이스**
+- <a href="https://yuchan-log.notion.site/Interface-5c77a39cec534dfbb60885eea2616f29?pvs=4">인터페이스란 무엇인가?</a>
