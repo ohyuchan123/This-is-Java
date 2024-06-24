@@ -1,4 +1,4 @@
-package Concept.Algorithms.Study;
+package Concept.Algorithms.Study.Greed;
 
 public class MaxExample {
     public static void main(String[] args) {

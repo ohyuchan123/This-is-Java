@@ -1,7 +1,5 @@
-package Concept.Algorithms.Study;
+package Concept.Algorithms.Study.Greed;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class changeExample {
