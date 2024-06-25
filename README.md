@@ -78,4 +78,3 @@ sout ->  System.out.println(); 출력문을 자동적으로 생성
 - <a href="https://yuchan-log.notion.site/8587477d10be4a53b6250464204cdfa6?pvs=4">안정성을 보장하는 제네릭</a>
 - <a href="https://yuchan-log.notion.site/483127f15a7946e09b9ba1f2c48df9a3?pvs=4">컬렉션 자료구조</a>
 - <a href="https://yuchan-log.notion.site/36df6da363994c56bd04a846ef89b136?pvs=4">람다식에 모든것</a>
-- <a href="https://yuchan-log.notion.site/44c5120759ad484f8f8cf8f11a97ae41?pvs=4">스트림이란?</a>
